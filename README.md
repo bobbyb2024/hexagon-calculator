@@ -1,4 +1,7 @@
 # Hexagon Light Grid Calculator
+
+[See and use the Grid Calculator Here https://bobbyb2024.github.io/hexagon-calculator/](https://bobbyb2024.github.io/hexagon-calculator/)
+
 Calculates the sides and dimensions for Andy Huot Duality HexGrid - Hexagon LED Grid System
 A 3D printable Hexagon Light Grid that is awesome!
 
